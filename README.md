@@ -12,6 +12,6 @@ printf("I am a  boy!");
 return 0;
 
 }
-
+ruby语言
 
 
